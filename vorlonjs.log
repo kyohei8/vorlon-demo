@@ -1,0 +1,886 @@
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = CiRVF5SVIUKd0gGZAAAA","timestamp":"2015-06-15T17:14:05.037Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = CiRVF5SVIUKd0gGZAAAA","timestamp":"2015-06-15T17:14:05.039Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:14:05.039Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:14:05.039Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:14:23.913Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:14:24.147Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = b9f5a64f-2312-46d9-8756-5fd4d0276f7c","timestamp":"2015-06-15T17:14:24.148Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:14:24.148Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : CiRVF5SVIUKd0gGZAAAA","timestamp":"2015-06-15T17:14:24.149Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:14:24.149Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : CiRVF5SVIUKd0gGZAAAA","timestamp":"2015-06-15T17:14:30.179Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 0 message(s)","timestamp":"2015-06-15T17:14:30.180Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = dLhZERQMWeTadXfGAAAE","timestamp":"2015-06-15T17:16:29.628Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:16:29.629Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send helo to client to open socket : b9f5a64f-2312-46d9-8756-5fd4d0276f7c","timestamp":"2015-06-15T17:16:29.629Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:16:29.633Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard dLhZERQMWeTadXfGAAAE for session default(default) ","timestamp":"2015-06-15T17:16:38.225Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close dLhZERQMWeTadXfGAAAE for session default(default) ","timestamp":"2015-06-15T17:16:38.231Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:16:38.240Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = AKvG6RomyM_33dz_AAAG","timestamp":"2015-06-15T17:19:24.804Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = AKvG6RomyM_33dz_AAAG","timestamp":"2015-06-15T17:19:24.805Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:19:24.805Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:19:24.805Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:19:24.809Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard AKvG6RomyM_33dz_AAAG for session default(default) ","timestamp":"2015-06-15T17:20:03.389Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close AKvG6RomyM_33dz_AAAG for session default(default) ","timestamp":"2015-06-15T17:20:03.390Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:20:03.392Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = ZqAkZV_vEGCyjlneAAAI","timestamp":"2015-06-15T17:20:04.255Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = ZqAkZV_vEGCyjlneAAAI","timestamp":"2015-06-15T17:20:04.256Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:20:04.256Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:20:04.257Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:20:04.259Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (1)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = AbvijtdtVSKEnph5AAAK","timestamp":"2015-06-15T17:20:27.315Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (1)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = AbvijtdtVSKEnph5AAAK","timestamp":"2015-06-15T17:20:27.315Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T17:20:27.316Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (1) wait...","timestamp":"2015-06-15T17:20:27.316Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:20:27.324Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard AbvijtdtVSKEnph5AAAK for session default(default) ","timestamp":"2015-06-15T17:21:08.037Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close AbvijtdtVSKEnph5AAAK for session default(default) ","timestamp":"2015-06-15T17:21:08.037Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:21:08.040Z"}
+{"type":"PLUGIN","session":{"currentClientId":"","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket AbvijtdtVSKEnph5AAAK for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:21:08.395Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard ZqAkZV_vEGCyjlneAAAI for session default(default) ","timestamp":"2015-06-15T17:21:55.329Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close ZqAkZV_vEGCyjlneAAAI for session default(default) ","timestamp":"2015-06-15T17:21:55.330Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:21:55.336Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = rAni1ytdnpiuJYneAAAC","timestamp":"2015-06-15T17:23:50.640Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = rAni1ytdnpiuJYneAAAC","timestamp":"2015-06-15T17:23:50.641Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:23:50.642Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:23:50.642Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:23:54.540Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:23:54.654Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T17:23:54.655Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:23:54.659Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : rAni1ytdnpiuJYneAAAC","timestamp":"2015-06-15T17:23:54.659Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:23:54.660Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket 0RCZJv9TP6VjK1b-AAAE for session default(default)","timestamp":"2015-06-15T17:23:56.694Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:23:56.776Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:23:56.888Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T17:23:56.889Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:23:56.889Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : rAni1ytdnpiuJYneAAAC","timestamp":"2015-06-15T17:23:56.889Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:23:56.890Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket WXxxjzrknjntFO-_AAAG for session default(default)","timestamp":"2015-06-15T17:23:58.413Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-15T17:23:58.753Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:23:58.847Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T17:23:58.848Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket Nf18EtI6ZzHaBcG_AAAI for session default(default)","timestamp":"2015-06-15T17:24:02.650Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-15T17:24:02.934Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:24:03.025Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T17:24:03.025Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = XyPTtoKN9MvhzuJjAAAM","timestamp":"2015-06-15T17:24:39.011Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = XyPTtoKN9MvhzuJjAAAM","timestamp":"2015-06-15T17:24:39.012Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:24:39.012Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:24:39.012Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:24:39.016Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : XyPTtoKN9MvhzuJjAAAM","timestamp":"2015-06-15T17:24:43.114Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 0 message(s)","timestamp":"2015-06-15T17:24:43.115Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Received identify for sessionid : default","timestamp":"2015-06-15T17:24:44.903Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Dashboard send identify 0 to socketid : XyPTtoKN9MvhzuJjAAAM","timestamp":"2015-06-15T17:24:44.904Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 0 identify(s)","timestamp":"2015-06-15T17:24:44.904Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (1)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4] on sessionid : default socketid = uM0MjicrHjbCzO49AAAO","timestamp":"2015-06-15T17:24:47.685Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (1)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4] on sessionid : default socketid = uM0MjicrHjbCzO49AAAO","timestamp":"2015-06-15T17:24:47.686Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T17:24:47.686Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (1) wait...","timestamp":"2015-06-15T17:24:47.686Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:24:47.689Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket QnzjGtwfm3_YFjybAAAK for session default(default)","timestamp":"2015-06-15T17:24:51.325Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:24:51.404Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:24:51.489Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T17:24:51.489Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:24:51.489Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (XyPTtoKN9MvhzuJjAAAM)","timestamp":"2015-06-15T17:24:51.490Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : uM0MjicrHjbCzO49AAAO","timestamp":"2015-06-15T17:24:51.490Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:24:51.491Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket yG_P0ebbldNZKbAAAAAQ for session default(default)","timestamp":"2015-06-15T17:24:52.538Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:24:52.618Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:24:52.725Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T17:24:52.726Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:24:52.727Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : XyPTtoKN9MvhzuJjAAAM","timestamp":"2015-06-15T17:24:52.727Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (uM0MjicrHjbCzO49AAAO)","timestamp":"2015-06-15T17:24:52.728Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:24:52.728Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket dPwYhZesLGchHwJmAAAS for session default(default)","timestamp":"2015-06-15T17:24:54.724Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:24:54.785Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:24:54.896Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T17:24:54.897Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:24:54.897Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (XyPTtoKN9MvhzuJjAAAM)","timestamp":"2015-06-15T17:24:54.897Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : uM0MjicrHjbCzO49AAAO","timestamp":"2015-06-15T17:24:54.897Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:24:54.898Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : uM0MjicrHjbCzO49AAAO","timestamp":"2015-06-15T17:25:14.360Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 1 message(s)","timestamp":"2015-06-15T17:25:14.362Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : uM0MjicrHjbCzO49AAAO","timestamp":"2015-06-15T17:25:14.368Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 1 message(s)","timestamp":"2015-06-15T17:25:14.368Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : uM0MjicrHjbCzO49AAAO","timestamp":"2015-06-15T17:25:18.160Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 1 message(s)","timestamp":"2015-06-15T17:25:18.160Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : uM0MjicrHjbCzO49AAAO","timestamp":"2015-06-15T17:25:18.163Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 1 message(s)","timestamp":"2015-06-15T17:25:18.164Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : uM0MjicrHjbCzO49AAAO","timestamp":"2015-06-15T17:25:28.935Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 1 message(s)","timestamp":"2015-06-15T17:25:28.935Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : uM0MjicrHjbCzO49AAAO","timestamp":"2015-06-15T17:25:33.422Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 1 message(s)","timestamp":"2015-06-15T17:25:33.423Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : uM0MjicrHjbCzO49AAAO","timestamp":"2015-06-15T17:25:40.764Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 1 message(s)","timestamp":"2015-06-15T17:25:40.764Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : uM0MjicrHjbCzO49AAAO","timestamp":"2015-06-15T17:25:55.632Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 1 message(s)","timestamp":"2015-06-15T17:25:55.633Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : uM0MjicrHjbCzO49AAAO","timestamp":"2015-06-15T17:25:55.635Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 1 message(s)","timestamp":"2015-06-15T17:25:55.635Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket uM0MjicrHjbCzO49AAAO for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:30:21.243Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket XyPTtoKN9MvhzuJjAAAM for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:32:04.667Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = jzcQ4zs_qjj5AjKWAAAW","timestamp":"2015-06-15T17:32:05.250Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T17:32:05.250Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:32:05.251Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:32:05.253Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard jzcQ4zs_qjj5AjKWAAAW for session default(default) ","timestamp":"2015-06-15T17:32:10.512Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close jzcQ4zs_qjj5AjKWAAAW for session default(default) ","timestamp":"2015-06-15T17:32:10.513Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:32:10.516Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = svtf-HjgOOkjbrQHAAAY","timestamp":"2015-06-15T17:32:11.207Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = svtf-HjgOOkjbrQHAAAY","timestamp":"2015-06-15T17:32:11.207Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:32:11.207Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:32:11.207Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:32:11.211Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard svtf-HjgOOkjbrQHAAAY for session default(default) ","timestamp":"2015-06-15T17:32:32.024Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close svtf-HjgOOkjbrQHAAAY for session default(default) ","timestamp":"2015-06-15T17:32:32.025Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:32:32.030Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = lP8xItzV_6hFbMdbAAAa","timestamp":"2015-06-15T17:32:32.601Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = lP8xItzV_6hFbMdbAAAa","timestamp":"2015-06-15T17:32:32.601Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:32:32.601Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:32:32.602Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:32:32.605Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard lP8xItzV_6hFbMdbAAAa for session default(default) ","timestamp":"2015-06-15T17:32:41.148Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close lP8xItzV_6hFbMdbAAAa for session default(default) ","timestamp":"2015-06-15T17:32:41.149Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:32:41.154Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = JEUksBumNPyBUO8TAAAc","timestamp":"2015-06-15T17:32:41.704Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = JEUksBumNPyBUO8TAAAc","timestamp":"2015-06-15T17:32:41.704Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:32:41.704Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:32:41.704Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:32:41.711Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket GCvUGRucGPI7ctz8AAAU for session default(default)","timestamp":"2015-06-15T17:33:13.419Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:33:13.748Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:33:13.873Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T17:33:13.873Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:33:13.873Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (JEUksBumNPyBUO8TAAAc)","timestamp":"2015-06-15T17:33:13.873Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:33:13.874Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket T6rB62_OzdrZajywAAAe for session default(default)","timestamp":"2015-06-15T17:33:14.975Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:33:15.037Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:33:15.127Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T17:33:15.128Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:33:15.128Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : JEUksBumNPyBUO8TAAAc","timestamp":"2015-06-15T17:33:15.128Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:33:15.128Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket kaGXs6X-n6po8LTrAAAg for session default(default)","timestamp":"2015-06-15T17:33:16.316Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:33:16.377Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:33:16.452Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T17:33:16.452Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:33:16.453Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : JEUksBumNPyBUO8TAAAc","timestamp":"2015-06-15T17:33:16.454Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:33:16.454Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket eSs3Nq16gSR8oV71AAAi for session default(default)","timestamp":"2015-06-15T17:33:26.538Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:33:26.601Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:33:26.671Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T17:33:26.671Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:33:26.671Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (JEUksBumNPyBUO8TAAAc)","timestamp":"2015-06-15T17:33:26.672Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:33:26.672Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket HdNna5XGIAg5E_APAAAk for session default(default)","timestamp":"2015-06-15T17:33:28.322Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:33:28.398Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:33:28.497Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T17:33:28.497Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:33:28.497Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : JEUksBumNPyBUO8TAAAc","timestamp":"2015-06-15T17:33:28.497Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:33:28.498Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : JEUksBumNPyBUO8TAAAc","timestamp":"2015-06-15T17:33:29.585Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 0 message(s)","timestamp":"2015-06-15T17:33:29.586Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : JEUksBumNPyBUO8TAAAc","timestamp":"2015-06-15T17:33:30.482Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 0 message(s)","timestamp":"2015-06-15T17:33:30.483Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : JEUksBumNPyBUO8TAAAc","timestamp":"2015-06-15T17:33:30.659Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 0 message(s)","timestamp":"2015-06-15T17:33:30.660Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : JEUksBumNPyBUO8TAAAc","timestamp":"2015-06-15T17:33:30.804Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 0 message(s)","timestamp":"2015-06-15T17:33:30.804Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : JEUksBumNPyBUO8TAAAc","timestamp":"2015-06-15T17:33:30.980Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 0 message(s)","timestamp":"2015-06-15T17:33:30.980Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard JEUksBumNPyBUO8TAAAc for session default(default) ","timestamp":"2015-06-15T17:33:46.025Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close JEUksBumNPyBUO8TAAAc for session default(default) ","timestamp":"2015-06-15T17:33:46.026Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:33:46.030Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = RYa3viGi4A88EJfDAAAo","timestamp":"2015-06-15T17:33:46.696Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = RYa3viGi4A88EJfDAAAo","timestamp":"2015-06-15T17:33:46.696Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:33:46.697Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:33:46.697Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:33:46.701Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard RYa3viGi4A88EJfDAAAo for session default(default) ","timestamp":"2015-06-15T17:33:54.692Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close RYa3viGi4A88EJfDAAAo for session default(default) ","timestamp":"2015-06-15T17:33:54.692Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:33:54.695Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = C0RwjIbPp7p_xNR-AAAq","timestamp":"2015-06-15T17:33:55.181Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = C0RwjIbPp7p_xNR-AAAq","timestamp":"2015-06-15T17:33:55.182Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:33:55.182Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:33:55.182Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:33:55.193Z"}
+{"type":"PLUGIN","session":{"currentClientId":"","nbClients":0,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket C0RwjIbPp7p_xNR-AAAq for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:34:21.900Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = sKVhsf0nc1ExMhSSAAAs","timestamp":"2015-06-15T17:34:22.490Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:34:22.491Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:34:22.491Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:34:22.494Z"}
+{"type":"PLUGIN","session":{"currentClientId":"","nbClients":0,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket sKVhsf0nc1ExMhSSAAAs for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:34:23.147Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 82Fy4b_ZZ_hWm89BAAAu","timestamp":"2015-06-15T17:34:26.634Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:34:26.634Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:34:26.634Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:34:26.639Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard 82Fy4b_ZZ_hWm89BAAAu for session default(default) ","timestamp":"2015-06-15T17:36:02.327Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close 82Fy4b_ZZ_hWm89BAAAu for session default(default) ","timestamp":"2015-06-15T17:36:02.328Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:36:02.330Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = vN_XsV-ElQDo-xAVAAAw","timestamp":"2015-06-15T17:36:02.954Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = vN_XsV-ElQDo-xAVAAAw","timestamp":"2015-06-15T17:36:02.954Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:36:02.955Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:36:02.955Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:36:02.958Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard vN_XsV-ElQDo-xAVAAAw for session default(default) ","timestamp":"2015-06-15T17:36:54.521Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close vN_XsV-ElQDo-xAVAAAw for session default(default) ","timestamp":"2015-06-15T17:36:54.523Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:36:54.526Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = Ffgwdu0h7AGmGfC0AAAy","timestamp":"2015-06-15T17:36:55.078Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = Ffgwdu0h7AGmGfC0AAAy","timestamp":"2015-06-15T17:36:55.078Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:36:55.079Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:36:55.079Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:36:55.084Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard Ffgwdu0h7AGmGfC0AAAy for session default(default) ","timestamp":"2015-06-15T17:39:20.319Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close Ffgwdu0h7AGmGfC0AAAy for session default(default) ","timestamp":"2015-06-15T17:39:20.320Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:39:20.323Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 6ZeE_SaJm8YiQaCDAAA0","timestamp":"2015-06-15T17:39:20.910Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 6ZeE_SaJm8YiQaCDAAA0","timestamp":"2015-06-15T17:39:20.911Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:39:20.911Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:39:20.911Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:39:20.915Z"}
+{"type":"PLUGIN","session":{"currentClientId":"","nbClients":0,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket 6ZeE_SaJm8YiQaCDAAA0 for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:42:03.428Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = wtXaa76ntNGujE20AAA2","timestamp":"2015-06-15T17:42:03.920Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:42:03.920Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:42:03.920Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:42:03.925Z"}
+{"type":"PLUGIN","session":{"currentClientId":"","nbClients":0,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket wtXaa76ntNGujE20AAA2 for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:42:16.097Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = u6vbiLIE1plvLEH9AAA4","timestamp":"2015-06-15T17:42:16.604Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:42:16.605Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:42:16.605Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:42:16.607Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard u6vbiLIE1plvLEH9AAA4 for session default(default) ","timestamp":"2015-06-15T17:42:20.001Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close u6vbiLIE1plvLEH9AAA4 for session default(default) ","timestamp":"2015-06-15T17:42:20.001Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:42:20.005Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 14pUK7noNMfOi9IKAAA6","timestamp":"2015-06-15T17:42:20.535Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 14pUK7noNMfOi9IKAAA6","timestamp":"2015-06-15T17:42:20.536Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:42:20.536Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:42:20.536Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:42:20.541Z"}
+{"type":"PLUGIN","session":{"currentClientId":"","nbClients":0,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket 14pUK7noNMfOi9IKAAA6 for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:44:52.874Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = vCotMIEpSdLvBt0IAAA8","timestamp":"2015-06-15T17:44:53.408Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:44:53.408Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:44:53.408Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:44:53.416Z"}
+{"type":"PLUGIN","session":{"currentClientId":"","nbClients":0,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket vCotMIEpSdLvBt0IAAA8 for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:45:20.305Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = pMUBFM2LMAT44riHAAA-","timestamp":"2015-06-15T17:45:20.782Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:45:20.782Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:45:20.782Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:45:20.785Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard pMUBFM2LMAT44riHAAA- for session default(default) ","timestamp":"2015-06-15T17:45:25.409Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close pMUBFM2LMAT44riHAAA- for session default(default) ","timestamp":"2015-06-15T17:45:25.411Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:45:25.416Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = Jxe59Uo68NBHRw_tAABA","timestamp":"2015-06-15T17:45:25.981Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = Jxe59Uo68NBHRw_tAABA","timestamp":"2015-06-15T17:45:25.982Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:45:25.982Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:45:25.982Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:45:25.986Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard Jxe59Uo68NBHRw_tAABA for session default(default) ","timestamp":"2015-06-15T17:45:28.369Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close Jxe59Uo68NBHRw_tAABA for session default(default) ","timestamp":"2015-06-15T17:45:28.369Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:45:28.375Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = on6vjEEoV2trPAxcAABC","timestamp":"2015-06-15T17:45:28.853Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = on6vjEEoV2trPAxcAABC","timestamp":"2015-06-15T17:45:28.853Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:45:28.854Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:45:28.854Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:45:28.860Z"}
+{"type":"PLUGIN","session":{"currentClientId":"","nbClients":0,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket on6vjEEoV2trPAxcAABC for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:46:12.582Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 2BF7WCzKtgXZPC83AABE","timestamp":"2015-06-15T17:46:13.167Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:46:13.167Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:46:13.167Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:46:13.171Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard 2BF7WCzKtgXZPC83AABE for session default(default) ","timestamp":"2015-06-15T17:46:28.243Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close 2BF7WCzKtgXZPC83AABE for session default(default) ","timestamp":"2015-06-15T17:46:28.243Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:46:28.247Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 7kXN3qdsurouAbUbAABG","timestamp":"2015-06-15T17:46:28.822Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 7kXN3qdsurouAbUbAABG","timestamp":"2015-06-15T17:46:28.822Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:46:28.822Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:46:28.824Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:46:28.825Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard 7kXN3qdsurouAbUbAABG for session default(default) ","timestamp":"2015-06-15T17:46:40.580Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close 7kXN3qdsurouAbUbAABG for session default(default) ","timestamp":"2015-06-15T17:46:40.580Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:46:40.582Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = rHWE-Dt6JQxVWi4eAABI","timestamp":"2015-06-15T17:46:41.167Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = rHWE-Dt6JQxVWi4eAABI","timestamp":"2015-06-15T17:46:41.168Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:46:41.168Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:46:41.168Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:46:41.173Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard rHWE-Dt6JQxVWi4eAABI for session default(default) ","timestamp":"2015-06-15T17:46:56.937Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close rHWE-Dt6JQxVWi4eAABI for session default(default) ","timestamp":"2015-06-15T17:46:56.938Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:46:56.940Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = v1a7jB49-zv3JFgXAABK","timestamp":"2015-06-15T17:46:57.504Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = v1a7jB49-zv3JFgXAABK","timestamp":"2015-06-15T17:46:57.504Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:46:57.504Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:46:57.505Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:46:57.510Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard v1a7jB49-zv3JFgXAABK for session default(default) ","timestamp":"2015-06-15T17:48:10.395Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close v1a7jB49-zv3JFgXAABK for session default(default) ","timestamp":"2015-06-15T17:48:10.396Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:48:10.400Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 7hrjqIwMUrTkB4LkAABM","timestamp":"2015-06-15T17:48:11.032Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 7hrjqIwMUrTkB4LkAABM","timestamp":"2015-06-15T17:48:11.032Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:48:11.032Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:48:11.033Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:48:11.036Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard 7hrjqIwMUrTkB4LkAABM for session default(default) ","timestamp":"2015-06-15T17:48:14.286Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close 7hrjqIwMUrTkB4LkAABM for session default(default) ","timestamp":"2015-06-15T17:48:14.287Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:48:14.290Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = Y9OZxnjA8Pgx_LgLAABO","timestamp":"2015-06-15T17:48:14.828Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = Y9OZxnjA8Pgx_LgLAABO","timestamp":"2015-06-15T17:48:14.828Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:48:14.828Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:48:14.828Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:48:14.833Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard Y9OZxnjA8Pgx_LgLAABO for session default(default) ","timestamp":"2015-06-15T17:48:16.965Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close Y9OZxnjA8Pgx_LgLAABO for session default(default) ","timestamp":"2015-06-15T17:48:16.966Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:48:16.970Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 5Y7LaqLhNvA6KCkWAABQ","timestamp":"2015-06-15T17:48:17.584Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 5Y7LaqLhNvA6KCkWAABQ","timestamp":"2015-06-15T17:48:17.584Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:48:17.584Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:48:17.584Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:48:17.592Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard 5Y7LaqLhNvA6KCkWAABQ for session default(default) ","timestamp":"2015-06-15T17:49:12.693Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close 5Y7LaqLhNvA6KCkWAABQ for session default(default) ","timestamp":"2015-06-15T17:49:12.694Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:49:12.697Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = nOSGHahBYFsMHjqzAABS","timestamp":"2015-06-15T17:49:13.195Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = nOSGHahBYFsMHjqzAABS","timestamp":"2015-06-15T17:49:13.195Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:49:13.196Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:49:13.196Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:49:13.202Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard nOSGHahBYFsMHjqzAABS for session default(default) ","timestamp":"2015-06-15T17:50:01.069Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close nOSGHahBYFsMHjqzAABS for session default(default) ","timestamp":"2015-06-15T17:50:01.070Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:50:01.072Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 8NkPZuqzr-989H8BAABU","timestamp":"2015-06-15T17:50:01.708Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 8NkPZuqzr-989H8BAABU","timestamp":"2015-06-15T17:50:01.708Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:50:01.709Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:50:01.709Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:50:01.715Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : 8NkPZuqzr-989H8BAABU","timestamp":"2015-06-15T17:50:15.424Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 0 message(s)","timestamp":"2015-06-15T17:50:15.424Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : 8NkPZuqzr-989H8BAABU","timestamp":"2015-06-15T17:50:17.726Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 0 message(s)","timestamp":"2015-06-15T17:50:17.727Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard 8NkPZuqzr-989H8BAABU for session default(default) ","timestamp":"2015-06-15T17:50:19.806Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close 8NkPZuqzr-989H8BAABU for session default(default) ","timestamp":"2015-06-15T17:50:19.807Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:50:19.812Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = LpL7LyztUqt95GnCAABW","timestamp":"2015-06-15T17:50:20.450Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = LpL7LyztUqt95GnCAABW","timestamp":"2015-06-15T17:50:20.450Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:50:20.450Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:50:20.450Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:50:20.454Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : LpL7LyztUqt95GnCAABW","timestamp":"2015-06-15T17:51:02.060Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 0 message(s)","timestamp":"2015-06-15T17:51:02.064Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard LpL7LyztUqt95GnCAABW for session default(default) ","timestamp":"2015-06-15T17:51:06.407Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close LpL7LyztUqt95GnCAABW for session default(default) ","timestamp":"2015-06-15T17:51:06.408Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:51:06.410Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = AMERRo5_7Mw-HcfaAABY","timestamp":"2015-06-15T17:51:07.006Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = AMERRo5_7Mw-HcfaAABY","timestamp":"2015-06-15T17:51:07.007Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:51:07.007Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:51:07.007Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:51:07.011Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : AMERRo5_7Mw-HcfaAABY","timestamp":"2015-06-15T17:52:35.415Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 0 message(s)","timestamp":"2015-06-15T17:52:35.415Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : AMERRo5_7Mw-HcfaAABY","timestamp":"2015-06-15T17:54:05.253Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 0 message(s)","timestamp":"2015-06-15T17:54:05.253Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard AMERRo5_7Mw-HcfaAABY for session default(default) ","timestamp":"2015-06-15T17:54:25.368Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close AMERRo5_7Mw-HcfaAABY for session default(default) ","timestamp":"2015-06-15T17:54:25.369Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 0 in session default","timestamp":"2015-06-15T17:54:25.373Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = yVREEHEAcAUyy3n6AABa","timestamp":"2015-06-15T17:54:26.082Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = yVREEHEAcAUyy3n6AABa","timestamp":"2015-06-15T17:54:26.082Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 01","timestamp":"2015-06-15T17:54:26.082Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:54:26.082Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:54:26.090Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : yVREEHEAcAUyy3n6AABa","timestamp":"2015-06-15T17:54:32.898Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 0 message(s)","timestamp":"2015-06-15T17:54:32.898Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (1)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4] on sessionid : default socketid = GSWf2Zr7l35Zeai2AABc","timestamp":"2015-06-15T17:54:43.202Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (1)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4] on sessionid : default socketid = GSWf2Zr7l35Zeai2AABc","timestamp":"2015-06-15T17:54:43.203Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T17:54:43.203Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (1) wait...","timestamp":"2015-06-15T17:54:43.203Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:54:43.205Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket Nf35gWVZKGbelAjaAAAm for session default(default)","timestamp":"2015-06-15T17:54:44.515Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:54:44.597Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:54:44.687Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T17:54:44.687Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:54:44.687Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yVREEHEAcAUyy3n6AABa)","timestamp":"2015-06-15T17:54:44.687Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : GSWf2Zr7l35Zeai2AABc","timestamp":"2015-06-15T17:54:44.690Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:54:44.690Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard yVREEHEAcAUyy3n6AABa for session default(default) ","timestamp":"2015-06-15T17:55:39.411Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close yVREEHEAcAUyy3n6AABa for session default(default) ","timestamp":"2015-06-15T17:55:39.411Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:55:39.415Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket yVREEHEAcAUyy3n6AABa for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:55:39.426Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket GSWf2Zr7l35Zeai2AABc for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:55:39.499Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (1)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4] on sessionid : default socketid = BJ8sp-Do3N9tLbOzAABg","timestamp":"2015-06-15T17:55:39.832Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T17:55:39.833Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send helo to client to open socket : 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T17:55:39.833Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:55:39.835Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = XrHl1V_cgkG1sUZ3AABi","timestamp":"2015-06-15T17:55:40.085Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T17:55:40.085Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:55:40.085Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:55:40.092Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard XrHl1V_cgkG1sUZ3AABi for session default(default) ","timestamp":"2015-06-15T17:57:09.685Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close XrHl1V_cgkG1sUZ3AABi for session default(default) ","timestamp":"2015-06-15T17:57:09.685Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:57:09.688Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket XrHl1V_cgkG1sUZ3AABi for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:57:09.703Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket BJ8sp-Do3N9tLbOzAABg for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:57:09.753Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (1)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4] on sessionid : default socketid = DSOCMwMPWrymIkMtAABk","timestamp":"2015-06-15T17:57:10.109Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T17:57:10.109Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send helo to client to open socket : 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T17:57:10.110Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:57:10.111Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = HF2Uwv4GKikN2Ce4AABm","timestamp":"2015-06-15T17:57:10.255Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T17:57:10.255Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:57:10.257Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:57:10.279Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard HF2Uwv4GKikN2Ce4AABm for session default(default) ","timestamp":"2015-06-15T17:57:59.482Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close HF2Uwv4GKikN2Ce4AABm for session default(default) ","timestamp":"2015-06-15T17:57:59.482Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:57:59.485Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket HF2Uwv4GKikN2Ce4AABm for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:57:59.493Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket DSOCMwMPWrymIkMtAABk for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:57:59.553Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (1)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4] on sessionid : default socketid = ZQpbgsiByDUAob-DAABo","timestamp":"2015-06-15T17:57:59.867Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T17:57:59.867Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send helo to client to open socket : 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T17:57:59.867Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:57:59.871Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = LrzreXeraH_ztQ13AABq","timestamp":"2015-06-15T17:58:00.103Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T17:58:00.105Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:58:00.106Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:58:00.110Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket nOZTFEhhqF13xQKcAABe for session default(default)","timestamp":"2015-06-15T17:58:13.635Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:58:13.755Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:58:13.852Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T17:58:13.852Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:58:13.852Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : LrzreXeraH_ztQ13AABq","timestamp":"2015-06-15T17:58:13.852Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (ZQpbgsiByDUAob-DAABo)","timestamp":"2015-06-15T17:58:13.853Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:58:13.853Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket KpcIJUxNpb4r_Cu8AABs for session default(default)","timestamp":"2015-06-15T17:58:14.979Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:58:15.095Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:58:15.208Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T17:58:15.208Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:58:15.208Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (LrzreXeraH_ztQ13AABq)","timestamp":"2015-06-15T17:58:15.209Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : ZQpbgsiByDUAob-DAABo","timestamp":"2015-06-15T17:58:15.209Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:58:15.209Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket ZQpbgsiByDUAob-DAABo for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:58:22.249Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (1)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4] on sessionid : default socketid = RgnmAkdKoZ2FPxO6AABw","timestamp":"2015-06-15T17:58:22.542Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T17:58:22.542Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send helo to client to open socket : 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T17:58:22.543Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:58:22.545Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket 9TMckJLhpHO4k1SoAABu for session default(default)","timestamp":"2015-06-15T17:59:37.117Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:59:37.216Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:59:37.307Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T17:59:37.307Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:59:37.308Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : LrzreXeraH_ztQ13AABq","timestamp":"2015-06-15T17:59:37.308Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (RgnmAkdKoZ2FPxO6AABw)","timestamp":"2015-06-15T17:59:37.308Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:59:37.308Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket ozuPmWet9vFBXWCtAABy for session default(default)","timestamp":"2015-06-15T17:59:40.079Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:59:40.206Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:59:40.292Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T17:59:40.293Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:59:40.293Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : LrzreXeraH_ztQ13AABq","timestamp":"2015-06-15T17:59:40.293Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (RgnmAkdKoZ2FPxO6AABw)","timestamp":"2015-06-15T17:59:40.293Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:59:40.293Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket j3aDGZ-PXe7rNYYiAAB0 for session default(default)","timestamp":"2015-06-15T17:59:40.753Z"}
+{"type":"PLUGIN","session":"default","level":"error","message":"  PLUGIN : No dashboard for session id :default","timestamp":"2015-06-15T17:59:40.826Z"}
+{"type":"PLUGIN","session":"default","level":"error","message":"  PLUGIN : No dashboard for session id :default","timestamp":"2015-06-15T17:59:40.827Z"}
+{"type":"PLUGIN","session":"default","level":"error","message":"  PLUGIN : No dashboard for session id :default","timestamp":"2015-06-15T17:59:40.828Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:59:40.882Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T17:59:40.974Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T17:59:40.974Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T17:59:40.974Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (LrzreXeraH_ztQ13AABq)","timestamp":"2015-06-15T17:59:40.974Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : RgnmAkdKoZ2FPxO6AABw","timestamp":"2015-06-15T17:59:40.974Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T17:59:40.974Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard LrzreXeraH_ztQ13AABq for session default(default) ","timestamp":"2015-06-15T17:59:50.894Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close LrzreXeraH_ztQ13AABq for session default(default) ","timestamp":"2015-06-15T17:59:50.895Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T17:59:50.898Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket LrzreXeraH_ztQ13AABq for session [object Object]([object Object]) ","timestamp":"2015-06-15T17:59:50.904Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = DudaxY1SGmroWdN-AAB4","timestamp":"2015-06-15T17:59:51.479Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T17:59:51.479Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T17:59:51.479Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T17:59:51.485Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard DudaxY1SGmroWdN-AAB4 for session default(default) ","timestamp":"2015-06-15T18:00:22.239Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close DudaxY1SGmroWdN-AAB4 for session default(default) ","timestamp":"2015-06-15T18:00:22.240Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T18:00:22.242Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket DudaxY1SGmroWdN-AAB4 for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:00:22.249Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket RgnmAkdKoZ2FPxO6AABw for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:00:22.339Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (1)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4] on sessionid : default socketid = uIS5hYVwHtPTJIEeAAB6","timestamp":"2015-06-15T18:00:22.681Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T18:00:22.682Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send helo to client to open socket : 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T18:00:22.682Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T18:00:22.683Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = KOByVBQPYfTXu_8wAAB8","timestamp":"2015-06-15T18:00:22.876Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T18:00:22.876Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T18:00:22.876Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:00:22.880Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket o7r0ZzK0xUzgHDsmAAB2 for session default(default)","timestamp":"2015-06-15T18:00:24.397Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:00:24.527Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:00:24.639Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T18:00:24.639Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:00:24.639Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : KOByVBQPYfTXu_8wAAB8","timestamp":"2015-06-15T18:00:24.640Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (uIS5hYVwHtPTJIEeAAB6)","timestamp":"2015-06-15T18:00:24.640Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:00:24.640Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket lOEJvJEdbapvVtI3AAB- for session default(default)","timestamp":"2015-06-15T18:00:26.860Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:00:26.976Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:00:27.058Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T18:00:27.058Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:00:27.058Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (KOByVBQPYfTXu_8wAAB8)","timestamp":"2015-06-15T18:00:27.058Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : uIS5hYVwHtPTJIEeAAB6","timestamp":"2015-06-15T18:00:27.059Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:00:27.059Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard KOByVBQPYfTXu_8wAAB8 for session default(default) ","timestamp":"2015-06-15T18:00:53.164Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close KOByVBQPYfTXu_8wAAB8 for session default(default) ","timestamp":"2015-06-15T18:00:53.165Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T18:00:53.168Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket KOByVBQPYfTXu_8wAAB8 for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:00:53.180Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket uIS5hYVwHtPTJIEeAAB6 for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:00:53.234Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (1)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4] on sessionid : default socketid = t5NbDuPr1wqgZnNSAACC","timestamp":"2015-06-15T18:00:53.608Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T18:00:53.608Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send helo to client to open socket : 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T18:00:53.608Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T18:00:53.612Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = nV-G-a-T-ISleoPBAACE","timestamp":"2015-06-15T18:00:53.805Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T18:00:53.805Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T18:00:53.805Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:00:53.832Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket KJEY0wRp3-YZtp8XAACA for session default(default)","timestamp":"2015-06-15T18:00:55.331Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:00:55.462Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:00:55.562Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T18:00:55.562Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:00:55.563Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : nV-G-a-T-ISleoPBAACE","timestamp":"2015-06-15T18:00:55.563Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (t5NbDuPr1wqgZnNSAACC)","timestamp":"2015-06-15T18:00:55.563Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:00:55.564Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket Mfn9Eit4YvQzxVFdAACG for session default(default)","timestamp":"2015-06-15T18:00:57.604Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:00:57.721Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:00:57.817Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T18:00:57.817Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:00:57.817Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (nV-G-a-T-ISleoPBAACE)","timestamp":"2015-06-15T18:00:57.817Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : t5NbDuPr1wqgZnNSAACC","timestamp":"2015-06-15T18:00:57.819Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:00:57.819Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket 90JyAJzwuGtLFjaGAACI for session default(default)","timestamp":"2015-06-15T18:00:58.690Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:00:58.798Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:00:58.910Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T18:00:58.911Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:00:58.911Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : nV-G-a-T-ISleoPBAACE","timestamp":"2015-06-15T18:00:58.911Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (t5NbDuPr1wqgZnNSAACC)","timestamp":"2015-06-15T18:00:58.911Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:00:58.911Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket o5cKKC1aITz6WxVgAACK for session default(default)","timestamp":"2015-06-15T18:01:10.509Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:01:10.850Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:01:10.940Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T18:01:10.941Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:01:10.941Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : nV-G-a-T-ISleoPBAACE","timestamp":"2015-06-15T18:01:10.941Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (t5NbDuPr1wqgZnNSAACC)","timestamp":"2015-06-15T18:01:10.941Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:01:10.941Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard nV-G-a-T-ISleoPBAACE for session default(default) ","timestamp":"2015-06-15T18:01:13.356Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close nV-G-a-T-ISleoPBAACE for session default(default) ","timestamp":"2015-06-15T18:01:13.356Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T18:01:13.359Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8fd2ca99-bbd0-4243-89a3-1f6390e67040","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket nV-G-a-T-ISleoPBAACE for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:01:13.366Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 5DkfmSUdr1hOG2r4AACO","timestamp":"2015-06-15T18:01:13.888Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T18:01:13.889Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send helo to client to open socket : 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T18:01:13.889Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:01:13.894Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket qsP8dY8S21r0LSGVAACM for session default(default)","timestamp":"2015-06-15T18:01:26.340Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:01:26.445Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:01:26.548Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T18:01:26.549Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:01:26.549Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (5DkfmSUdr1hOG2r4AACO)","timestamp":"2015-06-15T18:01:26.549Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : t5NbDuPr1wqgZnNSAACC","timestamp":"2015-06-15T18:01:26.549Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:01:26.549Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket t5NbDuPr1wqgZnNSAACC for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:01:29.335Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (1)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4] on sessionid : default socketid = eS2BsHDnQDlZDegXAACS","timestamp":"2015-06-15T18:01:29.659Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T18:01:29.659Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send helo to client to open socket : 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T18:01:29.659Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:01:29.661Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard 5DkfmSUdr1hOG2r4AACO for session default(default) ","timestamp":"2015-06-15T18:02:22.898Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close 5DkfmSUdr1hOG2r4AACO for session default(default) ","timestamp":"2015-06-15T18:02:22.898Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T18:02:22.901Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket 5DkfmSUdr1hOG2r4AACO for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:02:22.913Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket eS2BsHDnQDlZDegXAACS for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:02:23.082Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (1)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4] on sessionid : default socketid = 2VA1dAMR2qWkG31BAACU","timestamp":"2015-06-15T18:02:23.260Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T18:02:23.260Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send helo to client to open socket : 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T18:02:23.261Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T18:02:23.263Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 0lbQ-ERrq1AF70g3AACW","timestamp":"2015-06-15T18:02:23.530Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T18:02:23.530Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T18:02:23.530Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:02:23.569Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket aC6kHEtDzQZluHI0AACQ for session default(default)","timestamp":"2015-06-15T18:02:25.227Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:02:25.342Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:02:25.432Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T18:02:25.432Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:02:25.433Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (0lbQ-ERrq1AF70g3AACW)","timestamp":"2015-06-15T18:02:25.433Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : 2VA1dAMR2qWkG31BAACU","timestamp":"2015-06-15T18:02:25.433Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:02:25.433Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket mWEtSctCFOlxVLstAACY for session default(default)","timestamp":"2015-06-15T18:02:25.869Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:02:25.983Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:02:26.077Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T18:02:26.077Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:02:26.077Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : 0lbQ-ERrq1AF70g3AACW","timestamp":"2015-06-15T18:02:26.077Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (2VA1dAMR2qWkG31BAACU)","timestamp":"2015-06-15T18:02:26.077Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:02:26.078Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket yyEPCfgSwhOK8IlOAACa for session default(default)","timestamp":"2015-06-15T18:02:26.881Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:02:26.996Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:02:27.099Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T18:02:27.099Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:02:27.099Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (0lbQ-ERrq1AF70g3AACW)","timestamp":"2015-06-15T18:02:27.099Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : 2VA1dAMR2qWkG31BAACU","timestamp":"2015-06-15T18:02:27.100Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:02:27.100Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":1,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket 2VA1dAMR2qWkG31BAACU for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:02:33.247Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (1)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4] on sessionid : default socketid = yWzq-OVr7v7iAiC0AACe","timestamp":"2015-06-15T18:02:33.520Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 11","timestamp":"2015-06-15T18:02:33.520Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send helo to client to open socket : 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T18:02:33.520Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:02:33.522Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send Refresh clientlist to dashboard (2)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/43.0.2357.56 Mobile/12B440 Safari/600.1.4 (000821)] on sessionid : default socketid = xGMU-BR7XTI_GkqhAACg","timestamp":"2015-06-15T18:03:09.364Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (2)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/43.0.2357.56 Mobile/12B440 Safari/600.1.4 (000821)] on sessionid : default socketid = xGMU-BR7XTI_GkqhAACg","timestamp":"2015-06-15T18:03:09.364Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 21","timestamp":"2015-06-15T18:03:09.365Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (2) wait...","timestamp":"2015-06-15T18:03:09.365Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 3 in session default","timestamp":"2015-06-15T18:03:09.367Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket HJjPpYqaK-vHSaKDAACc for session default(default)","timestamp":"2015-06-15T18:03:13.649Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 3 in session default","timestamp":"2015-06-15T18:03:13.765Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:03:13.860Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = ebb8636b-9be0-4a67-b679-78ff4c57924d","timestamp":"2015-06-15T18:03:13.861Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:03:13.861Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (0lbQ-ERrq1AF70g3AACW)","timestamp":"2015-06-15T18:03:13.861Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yWzq-OVr7v7iAiC0AACe)","timestamp":"2015-06-15T18:03:13.861Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : xGMU-BR7XTI_GkqhAACg","timestamp":"2015-06-15T18:03:13.862Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:03:13.862Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Received identify for sessionid : default","timestamp":"2015-06-15T18:03:18.396Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Dashboard send identify 0 to socketid : 0lbQ-ERrq1AF70g3AACW","timestamp":"2015-06-15T18:03:18.397Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Dashboard send identify 1 to socketid : yWzq-OVr7v7iAiC0AACe","timestamp":"2015-06-15T18:03:18.397Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Dashboard send identify 2 to socketid : xGMU-BR7XTI_GkqhAACg","timestamp":"2015-06-15T18:03:18.398Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 2 identify(s)","timestamp":"2015-06-15T18:03:18.398Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket 3Tg7ViJwPZgynp_AAACi for session default(default)","timestamp":"2015-06-15T18:03:30.997Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 3 in session default","timestamp":"2015-06-15T18:03:31.101Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:03:31.202Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T18:03:31.203Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:03:31.203Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : 0lbQ-ERrq1AF70g3AACW","timestamp":"2015-06-15T18:03:31.203Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yWzq-OVr7v7iAiC0AACe)","timestamp":"2015-06-15T18:03:31.203Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (xGMU-BR7XTI_GkqhAACg)","timestamp":"2015-06-15T18:03:31.203Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:03:31.203Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8fd2ca99-bbd0-4243-89a3-1f6390e67040","nbClients":2,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket yWzq-OVr7v7iAiC0AACe for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:03:58.758Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard 0lbQ-ERrq1AF70g3AACW for session default(default) ","timestamp":"2015-06-15T18:04:05.351Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close 0lbQ-ERrq1AF70g3AACW for session default(default) ","timestamp":"2015-06-15T18:04:05.351Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T18:04:05.357Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8fd2ca99-bbd0-4243-89a3-1f6390e67040","nbClients":2,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket 0lbQ-ERrq1AF70g3AACW for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:04:05.377Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8fd2ca99-bbd0-4243-89a3-1f6390e67040","nbClients":2,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket xGMU-BR7XTI_GkqhAACg for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:04:05.495Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (2)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/43.0.2357.56 Mobile/12B440 Safari/600.1.4 (000821)] on sessionid : default socketid = -1gawu1ih4C-LdQgAACm","timestamp":"2015-06-15T18:04:05.934Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 21","timestamp":"2015-06-15T18:04:05.934Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (2) wait...","timestamp":"2015-06-15T18:04:05.934Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T18:04:05.937Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = q_khArqMaTHBmmAgAACo","timestamp":"2015-06-15T18:04:06.025Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 21","timestamp":"2015-06-15T18:04:06.025Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send helo to client to open socket : 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T18:04:06.026Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:04:06.030Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard q_khArqMaTHBmmAgAACo for session default(default) ","timestamp":"2015-06-15T18:04:27.123Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close q_khArqMaTHBmmAgAACo for session default(default) ","timestamp":"2015-06-15T18:04:27.123Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T18:04:27.132Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8fd2ca99-bbd0-4243-89a3-1f6390e67040","nbClients":2,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket q_khArqMaTHBmmAgAACo for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:04:27.140Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8fd2ca99-bbd0-4243-89a3-1f6390e67040","nbClients":2,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket -1gawu1ih4C-LdQgAACm for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:04:27.270Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (2)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/43.0.2357.56 Mobile/12B440 Safari/600.1.4 (000821)] on sessionid : default socketid = ScIMnZ_vDOyVisosAACq","timestamp":"2015-06-15T18:04:27.691Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 21","timestamp":"2015-06-15T18:04:27.691Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (2) wait...","timestamp":"2015-06-15T18:04:27.691Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T18:04:27.695Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = 93qYhWjGA4-QSvz-AACs","timestamp":"2015-06-15T18:04:27.720Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 21","timestamp":"2015-06-15T18:04:27.720Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send helo to client to open socket : 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T18:04:27.720Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:04:27.727Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket OmFqIt5FYAZ3iJzPAACk for session default(default)","timestamp":"2015-06-15T18:04:32.464Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:04:32.581Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:04:32.672Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = ebb8636b-9be0-4a67-b679-78ff4c57924d","timestamp":"2015-06-15T18:04:32.672Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:04:32.672Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (93qYhWjGA4-QSvz-AACs)","timestamp":"2015-06-15T18:04:32.673Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yWzq-OVr7v7iAiC0AACe)","timestamp":"2015-06-15T18:04:32.673Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : ScIMnZ_vDOyVisosAACq","timestamp":"2015-06-15T18:04:32.673Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:04:32.673Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket NEa4zOzHowGNG83PAACu for session default(default)","timestamp":"2015-06-15T18:04:33.542Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:04:33.664Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:04:33.756Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T18:04:33.756Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:04:33.756Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : 93qYhWjGA4-QSvz-AACs","timestamp":"2015-06-15T18:04:33.757Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yWzq-OVr7v7iAiC0AACe)","timestamp":"2015-06-15T18:04:33.757Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (ScIMnZ_vDOyVisosAACq)","timestamp":"2015-06-15T18:04:33.757Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:04:33.757Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8fd2ca99-bbd0-4243-89a3-1f6390e67040","nbClients":2,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket ScIMnZ_vDOyVisosAACq for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:04:37.651Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (2)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/43.0.2357.56 Mobile/12B440 Safari/600.1.4 (000821)] on sessionid : default socketid = lg5t9GRy4Pm1fhVkAACy","timestamp":"2015-06-15T18:04:38.350Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 21","timestamp":"2015-06-15T18:04:38.350Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (2) wait...","timestamp":"2015-06-15T18:04:38.350Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:04:38.352Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket G0v7pnuubrnlDbg5AACw for session default(default)","timestamp":"2015-06-15T18:04:40.674Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:04:40.796Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:04:40.902Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = ebb8636b-9be0-4a67-b679-78ff4c57924d","timestamp":"2015-06-15T18:04:40.902Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:04:40.903Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (93qYhWjGA4-QSvz-AACs)","timestamp":"2015-06-15T18:04:40.903Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yWzq-OVr7v7iAiC0AACe)","timestamp":"2015-06-15T18:04:40.903Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : lg5t9GRy4Pm1fhVkAACy","timestamp":"2015-06-15T18:04:40.903Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:04:40.903Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket uJzyJjNrBu6IAGQPAAC0 for session default(default)","timestamp":"2015-06-15T18:04:46.205Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:04:46.322Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:04:46.422Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T18:04:46.422Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:04:46.422Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : 93qYhWjGA4-QSvz-AACs","timestamp":"2015-06-15T18:04:46.423Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yWzq-OVr7v7iAiC0AACe)","timestamp":"2015-06-15T18:04:46.423Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (lg5t9GRy4Pm1fhVkAACy)","timestamp":"2015-06-15T18:04:46.423Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:04:46.423Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket VQBOj1rCyAul4M8FAAC2 for session default(default)","timestamp":"2015-06-15T18:04:47.349Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:04:47.466Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:04:47.557Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = ebb8636b-9be0-4a67-b679-78ff4c57924d","timestamp":"2015-06-15T18:04:47.558Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:04:47.558Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (93qYhWjGA4-QSvz-AACs)","timestamp":"2015-06-15T18:04:47.558Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yWzq-OVr7v7iAiC0AACe)","timestamp":"2015-06-15T18:04:47.558Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : lg5t9GRy4Pm1fhVkAACy","timestamp":"2015-06-15T18:04:47.559Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:04:47.559Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket ZVHfN17EpK4T53V3AAC4 for session default(default)","timestamp":"2015-06-15T18:04:48.188Z"}
+{"type":"PLUGIN","session":"default","level":"error","message":"  PLUGIN : No dashboard for session id :default","timestamp":"2015-06-15T18:04:48.303Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:04:48.307Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:04:48.409Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T18:04:48.409Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:04:48.409Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : 93qYhWjGA4-QSvz-AACs","timestamp":"2015-06-15T18:04:48.410Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yWzq-OVr7v7iAiC0AACe)","timestamp":"2015-06-15T18:04:48.410Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (lg5t9GRy4Pm1fhVkAACy)","timestamp":"2015-06-15T18:04:48.410Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:04:48.410Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard 93qYhWjGA4-QSvz-AACs for session default(default) ","timestamp":"2015-06-15T18:05:22.608Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close 93qYhWjGA4-QSvz-AACs for session default(default) ","timestamp":"2015-06-15T18:05:22.609Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T18:05:22.613Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8fd2ca99-bbd0-4243-89a3-1f6390e67040","nbClients":2,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket 93qYhWjGA4-QSvz-AACs for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:05:22.627Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8fd2ca99-bbd0-4243-89a3-1f6390e67040","nbClients":2,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket lg5t9GRy4Pm1fhVkAACy for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:05:22.814Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = ksdSN4eYHKkSeKADAAC-","timestamp":"2015-06-15T18:05:23.134Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 21","timestamp":"2015-06-15T18:05:23.135Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send helo to client to open socket : 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T18:05:23.135Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T18:05:23.139Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (2)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/43.0.2357.56 Mobile/12B440 Safari/600.1.4 (000821)] on sessionid : default socketid = cl5XT4G8CzT9LUxFAAC8","timestamp":"2015-06-15T18:05:23.279Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 21","timestamp":"2015-06-15T18:05:23.279Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (2) wait...","timestamp":"2015-06-15T18:05:23.280Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:05:23.281Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket BqbjnOIErsZPeetbAAC6 for session default(default)","timestamp":"2015-06-15T18:05:27.810Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:05:27.930Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:05:28.023Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = ebb8636b-9be0-4a67-b679-78ff4c57924d","timestamp":"2015-06-15T18:05:28.023Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:05:28.023Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (ksdSN4eYHKkSeKADAAC-)","timestamp":"2015-06-15T18:05:28.023Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yWzq-OVr7v7iAiC0AACe)","timestamp":"2015-06-15T18:05:28.024Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : cl5XT4G8CzT9LUxFAAC8","timestamp":"2015-06-15T18:05:28.024Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:05:28.024Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket rMzit4RaaX01p4sNAADA for session default(default)","timestamp":"2015-06-15T18:05:30.419Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:05:30.536Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:05:30.627Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T18:05:30.627Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:05:30.627Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : ksdSN4eYHKkSeKADAAC-","timestamp":"2015-06-15T18:05:30.632Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yWzq-OVr7v7iAiC0AACe)","timestamp":"2015-06-15T18:05:30.632Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (cl5XT4G8CzT9LUxFAAC8)","timestamp":"2015-06-15T18:05:30.632Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:05:30.632Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket GkYKzkhXtRQqqRpOAADC for session default(default)","timestamp":"2015-06-15T18:05:31.435Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:05:31.544Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:05:31.648Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = ebb8636b-9be0-4a67-b679-78ff4c57924d","timestamp":"2015-06-15T18:05:31.648Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:05:31.648Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (ksdSN4eYHKkSeKADAAC-)","timestamp":"2015-06-15T18:05:31.648Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yWzq-OVr7v7iAiC0AACe)","timestamp":"2015-06-15T18:05:31.649Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : cl5XT4G8CzT9LUxFAAC8","timestamp":"2015-06-15T18:05:31.649Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:05:31.650Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send RefreshClients to Dashboard ksdSN4eYHKkSeKADAAC- for session default(default) ","timestamp":"2015-06-15T18:06:28.875Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Close ksdSN4eYHKkSeKADAAC- for session default(default) ","timestamp":"2015-06-15T18:06:28.876Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T18:06:28.878Z"}
+{"type":"PLUGIN","session":{"currentClientId":"ebb8636b-9be0-4a67-b679-78ff4c57924d","nbClients":2,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket ksdSN4eYHKkSeKADAAC- for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:06:28.896Z"}
+{"type":"PLUGIN","session":{"currentClientId":"ebb8636b-9be0-4a67-b679-78ff4c57924d","nbClients":2,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket cl5XT4G8CzT9LUxFAAC8 for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:06:28.999Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (0)[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36] on sessionid : default socketid = yShpvZLgR92EuvfEAADI","timestamp":"2015-06-15T18:06:29.473Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 21","timestamp":"2015-06-15T18:06:29.474Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (0) wait...","timestamp":"2015-06-15T18:06:29.474Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 1 in session default","timestamp":"2015-06-15T18:06:29.479Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (2)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/43.0.2357.56 Mobile/12B440 Safari/600.1.4 (000821)] on sessionid : default socketid = 73eLkeicyBuzyXFqAADG","timestamp":"2015-06-15T18:06:29.485Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 21","timestamp":"2015-06-15T18:06:29.485Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Send helo to client to open socket : ebb8636b-9be0-4a67-b679-78ff4c57924d","timestamp":"2015-06-15T18:06:29.485Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:06:29.488Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket r0Q5DJldJMIcOoHpAADE for session default(default)","timestamp":"2015-06-15T18:06:32.414Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:06:32.529Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:06:32.624Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = ebb8636b-9be0-4a67-b679-78ff4c57924d","timestamp":"2015-06-15T18:06:32.624Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:06:32.624Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yShpvZLgR92EuvfEAADI)","timestamp":"2015-06-15T18:06:32.624Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yWzq-OVr7v7iAiC0AACe)","timestamp":"2015-06-15T18:06:32.624Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : 73eLkeicyBuzyXFqAADG","timestamp":"2015-06-15T18:06:32.625Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:06:32.625Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket R0JjviZK19Dy7mC8AADK for session default(default)","timestamp":"2015-06-15T18:06:33.549Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:06:33.664Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:06:33.756Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8fd2ca99-bbd0-4243-89a3-1f6390e67040","timestamp":"2015-06-15T18:06:33.756Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:06:33.756Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : yShpvZLgR92EuvfEAADI","timestamp":"2015-06-15T18:06:33.757Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yWzq-OVr7v7iAiC0AACe)","timestamp":"2015-06-15T18:06:33.757Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (73eLkeicyBuzyXFqAADG)","timestamp":"2015-06-15T18:06:33.757Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:06:33.757Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket jmIRgThTlWdVMRKYAADM for session default(default)","timestamp":"2015-06-15T18:06:34.837Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 2 in session default","timestamp":"2015-06-15T18:06:34.954Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:06:35.045Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = ebb8636b-9be0-4a67-b679-78ff4c57924d","timestamp":"2015-06-15T18:06:35.045Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:06:35.045Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yShpvZLgR92EuvfEAADI)","timestamp":"2015-06-15T18:06:35.046Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yWzq-OVr7v7iAiC0AACe)","timestamp":"2015-06-15T18:06:35.047Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : 73eLkeicyBuzyXFqAADG","timestamp":"2015-06-15T18:06:35.047Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:06:35.047Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Client Reconnect (1)[Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4] on sessionid : default socketid = Ub2xYjS_pAtNtcdhAADQ","timestamp":"2015-06-15T18:06:53.357Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : Number clients in session : 21","timestamp":"2015-06-15T18:06:53.358Z"}
+{"type":"PLUGIN","session":"default","level":"info","message":"   PLUGIN : New client (1) wait...","timestamp":"2015-06-15T18:06:53.358Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 3 in session default","timestamp":"2015-06-15T18:06:53.360Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Received identify for sessionid : default","timestamp":"2015-06-15T18:06:57.377Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Dashboard send identify 0 to socketid : yShpvZLgR92EuvfEAADI","timestamp":"2015-06-15T18:06:57.377Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Dashboard send identify 1 to socketid : Ub2xYjS_pAtNtcdhAADQ","timestamp":"2015-06-15T18:06:57.378Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Dashboard send identify 2 to socketid : 73eLkeicyBuzyXFqAADG","timestamp":"2015-06-15T18:06:57.378Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 2 identify(s)","timestamp":"2015-06-15T18:06:57.378Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Received identify for sessionid : default","timestamp":"2015-06-15T18:07:02.851Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Dashboard send identify 0 to socketid : yShpvZLgR92EuvfEAADI","timestamp":"2015-06-15T18:07:02.852Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Dashboard send identify 1 to socketid : Ub2xYjS_pAtNtcdhAADQ","timestamp":"2015-06-15T18:07:02.854Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Dashboard send identify 2 to socketid : 73eLkeicyBuzyXFqAADG","timestamp":"2015-06-15T18:07:02.854Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 2 identify(s)","timestamp":"2015-06-15T18:07:02.855Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket aLlVswNGtTBAqlz9AADO for session default(default)","timestamp":"2015-06-15T18:07:06.110Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 3 in session default","timestamp":"2015-06-15T18:07:06.221Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:07:06.313Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T18:07:06.314Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:07:06.314Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yShpvZLgR92EuvfEAADI)","timestamp":"2015-06-15T18:07:06.314Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : Ub2xYjS_pAtNtcdhAADQ","timestamp":"2015-06-15T18:07:06.314Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (73eLkeicyBuzyXFqAADG)","timestamp":"2015-06-15T18:07:06.314Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:07:06.315Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket EngjArtyXs_SabZDAADS for session default(default)","timestamp":"2015-06-15T18:07:07.518Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 3 in session default","timestamp":"2015-06-15T18:07:07.623Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:07:07.727Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = ebb8636b-9be0-4a67-b679-78ff4c57924d","timestamp":"2015-06-15T18:07:07.727Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:07:07.727Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yShpvZLgR92EuvfEAADI)","timestamp":"2015-06-15T18:07:07.728Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (Ub2xYjS_pAtNtcdhAADQ)","timestamp":"2015-06-15T18:07:07.728Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : 73eLkeicyBuzyXFqAADG","timestamp":"2015-06-15T18:07:07.728Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:07:07.728Z"}
+{"type":"DASHBOARD","dashboard":"default","level":"info","message":"   DASHBOARD : Delete dashboard socket owcvf_yX-ETvrDwkAADU for session default(default)","timestamp":"2015-06-15T18:07:08.911Z"}
+{"type":"API","session":"default","level":"info","message":"   API : GetClients nb client 3 in session default","timestamp":"2015-06-15T18:07:09.025Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : New Dashboard with session id : default","timestamp":"2015-06-15T18:07:09.126Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Client selected for this dashboad = 8593e5b4-2a69-4edc-96d4-fda8550e0c4a","timestamp":"2015-06-15T18:07:09.127Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Change currentClient on dashboarae458c64-5d54-44d3-a064-d0d49ba174a4","timestamp":"2015-06-15T18:07:09.127Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (yShpvZLgR92EuvfEAADI)","timestamp":"2015-06-15T18:07:09.127Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to this socketid : Ub2xYjS_pAtNtcdhAADQ","timestamp":"2015-06-15T18:07:09.127Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Wait this socketid again ... (73eLkeicyBuzyXFqAADG)","timestamp":"2015-06-15T18:07:09.127Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send helo to Dashboard on this sessionid : default","timestamp":"2015-06-15T18:07:09.128Z"}
+{"type":"PLUGIN","session":{"currentClientId":"8593e5b4-2a69-4edc-96d4-fda8550e0c4a","nbClients":2,"connectedClients":[]},"level":"info","message":"   PLUGIN : Delete client socket 73eLkeicyBuzyXFqAADG for session [object Object]([object Object]) ","timestamp":"2015-06-15T18:08:04.804Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : Ub2xYjS_pAtNtcdhAADQ","timestamp":"2015-06-15T18:08:33.709Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 2 message(s)","timestamp":"2015-06-15T18:08:33.709Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send message to socketid : Ub2xYjS_pAtNtcdhAADQ","timestamp":"2015-06-15T18:08:35.597Z"}
+{"type":"DASHBOARD","session":"default","level":"info","message":"   DASHBOARD : Send 2 message(s)","timestamp":"2015-06-15T18:08:35.597Z"}
