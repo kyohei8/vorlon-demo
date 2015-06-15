@@ -1,6 +1,7 @@
 # vorlon demo
 
 vorlon.jsデモ環境
+http://www.vorlonjs.com/
 
 # Install VorlonJs
 
@@ -20,5 +21,5 @@ $ vorlon
 npm i
 npm run start
 ```
-
+webpackのサーバが立ち上がるので`localhost:8090`をブラウザで開く
 
